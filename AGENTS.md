@@ -44,7 +44,7 @@ Documents with a `⚠️ SUPERSEDED` banner are history, not advice.
 
 ## Keeping the brain fresh (drift)
 
-Every canon file has frontmatter with `last_verified: YYYY-MM-DD`.
+Every canon file has frontmatter with `status` and `last_verified: YYYY-MM-DD`. A file stays `status: draft` until the human has filled it in; then it becomes `status: current`.
 
 - Older than 60 days: say so when you answer from it, and ask whether it still holds.
 - When the human confirms or updates it, set `last_verified` to today.

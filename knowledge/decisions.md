@@ -1,3 +1,8 @@
+---
+status: draft
+last_verified: YYYY-MM-DD
+---
+
 # Decisions
 
 Two parts. **Open**: questions you are carrying around but have not decided. **Log**: what you decided, newest on top. When an open question is decided, move it to the log with the date and the reason.
