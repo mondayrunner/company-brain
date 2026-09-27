@@ -34,7 +34,7 @@ AGENTS.md                 the rules your agent follows, and where every answer l
 CLAUDE.md                 one line that points Claude Code to AGENTS.md
 company.md                legal name, registration, address, bank, accountant
 knowledge/
-  INDEX.md                map of everything below
+  README.md               map: which file answers which question
   positioning.md          who you are for, who you are not for, the objections you hear
   pricing.md              the one place prices live
   finance.md              scorecard, loans, commitments, money rules; never the figures themselves
@@ -42,7 +42,7 @@ knowledge/
   team.md                 who does what, including your agents
   compass.md              what you want, what you do not; steers every piece of advice
   decisions.md            open questions on top, dated decisions and their reason below
-accounts/
+accounts/                 one folder per lead or customer, sorted by side
   leads/                  open deals; copy _template/ per lead
   customers/              signed
   lost/                   said no or went quiet; the lesson stays
@@ -56,6 +56,8 @@ playbooks/
   example-workshop-day/   a filled-in example
 transcripts/_inbox/       raw call notes and recordings waiting to be filed
 ```
+
+Every folder has a `README.md` that says what goes in it.
 
 ## Quickstart
 

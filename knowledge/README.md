@@ -1,6 +1,6 @@
-# Knowledge index
+# Knowledge
 
-The map. Every file in `knowledge/` gets one line here: what question it answers.
+What the company knows about itself. Every file here gets one line in this table, saying which question it answers.
 
 | File | Answers |
 |---|---|
@@ -12,4 +12,4 @@ The map. Every file in `knowledge/` gets one line here: what question it answers
 | `compass.md` | What do we want, what do we not want, where are we heading? Read before giving advice. |
 | `decisions.md` | What is still open, what did we decide, when, and why? |
 
-Add a line when you add a file. A file that is not in this index is hard to find and easy to forget.
+Add a line when you add a file. A file that is not in this table is hard to find and easy to forget.
