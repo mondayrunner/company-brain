@@ -37,13 +37,18 @@ knowledge/
   INDEX.md                map of everything below
   positioning.md          who you are for, who you are not for
   pricing.md              the one place prices live
+  finance.md              where money figures live, loans, commitments, money rules; never the figures themselves
+  brand.md                voice, words, colours, fonts
   compass.md              what you want, what you do not; steers every piece of advice
-  strategy.md             where you are heading, and what you decided not to do
-  decisions.md            dated log of decisions and their reason
+  decisions.md            open questions on top, dated decisions and their reason below
 accounts/
-  leads/_template/        copy this folder per lead
-  customers/              a lead moves here when they sign
+  leads/                  open deals; copy _template/ per lead
+  customers/              signed
+  lost/                   said no or went quiet; the lesson stays
+  churned/                was a customer, stopped
 pipeline.md               every open deal, who has the ball, next action
+contacts/                 partners, suppliers, network: people who are not accounts
+legal/                    terms, contract templates, privacy statement
 playbooks/
   README.md               how a playbook works
   _template/              copy this to start a new one
@@ -67,10 +72,12 @@ Twenty minutes later your agent can answer the basics. Fill the rest in this ord
 
 1. **`company.md`**: the facts on your invoice. Five minutes.
 2. **`positioning.md`** and **`pricing.md`**: who you are for and what it costs. The two things your agent is asked most.
-3. **`compass.md`**: start with the anti-vision, the Tuesday you do not want. Ask your agent to interview you; it is easier to answer questions than to face an empty page.
-4. **`strategy.md`**: where you are heading and the open questions. A decision moves to `decisions.md`.
-5. **Accounts**: one folder per open lead or customer, copied from `_template`. Paste in what you have (emails, notes) and let your agent write the status.
-6. **Playbooks**: not now. Wait until you notice you are writing something for the third time.
+3. **`brand.md`**: paste three texts you are proud of and let your agent describe your voice. From then on its drafts sound like you.
+4. **`compass.md`**: start with the anti-vision, the Tuesday you do not want. Ask your agent to interview you; it is easier to answer questions than to face an empty page.
+5. **`decisions.md`**: list the open questions you are carrying around. When one is decided, it moves to the log with the date and the reason.
+6. **`finance.md`**: where your money figures live, plus loans and fixed commitments with their end dates.
+7. **Accounts**: one folder per open lead or customer, copied from `_template`. Paste in what you have (emails, notes) and let your agent write the status.
+8. **Playbooks**: not now. Wait until you notice you are writing something for the third time.
 
 From there, feed it as you work: paste a call transcript, ask it to update the account; make a decision, ask it to log it; write the same email a third time, ask it to make a playbook.
 

@@ -32,7 +32,7 @@ Where you want to go. It may be vague and it may change. Describe a Tuesday rath
 
 ## This year
 
-Three things at most that must be true by the end of the year. Concrete enough that you can say yes or no in December.
+Three things at most that must be true by the end of the year. Concrete enough that you can say yes or no in December. Financial targets go here too.
 
 <!-- - ... -->
 

@@ -19,7 +19,3 @@ last_verified: YYYY-MM-DD
 ## Why us
 
 <!-- What a customer gets here that they do not get elsewhere. Proof, not adjectives. -->
-
-## Words we use, words we avoid
-
-<!-- The language that fits you, and the jargon you never want in your copy. -->
