@@ -1,6 +1,6 @@
 # Contacts
 
-People who matter but are not a lead or a customer: partners, suppliers, freelancers you work with, people who refer work to you, your accountant.
+This folder is for people who matter but are not a lead or a customer: partners, suppliers, freelancers you work with, people who refer work to you and your accountant.
 
 One file per person or organisation: `contacts/<name>.md`. Keep it short:
 
@@ -14,7 +14,7 @@ One file per person or organisation: `contacts/<name>.md`. Keep it short:
 
 ## Log
 
-- YYYY-MM-DD — [what happened]
+- YYYY-MM-DD: [what happened]
 ```
 
 When a contact becomes a lead, give them a folder in `accounts/leads/` and link to it from here.

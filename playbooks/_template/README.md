@@ -2,7 +2,7 @@
 
 [One sentence: what this process is and who it is for.]
 
-**Prices never in these templates:** always from `knowledge/pricing.md`.
+Never put prices in these templates. They come from `knowledge/pricing.md` when you use them.
 
 ## The chain
 

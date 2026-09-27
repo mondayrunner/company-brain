@@ -1,6 +1,6 @@
 # Legal
 
-The documents you sign or send, each in one place. Same rule as prices: the agent uses the version here, never one from an old email.
+This folder holds the documents you sign or send, each in one place. The same rule applies as for prices: the agent uses the version here, never one from an old email.
 
 Put here, for example:
 

@@ -2,7 +2,7 @@
 
 **An empty company brain in plain markdown.** Clone it, fill it, and let your AI agent (Claude Code, Cursor, Codex, or anything that reads project instructions) answer from it.
 
-No app. No database. No vendor. Folders, markdown files, and one instruction file that tells your agent where every fact lives.
+You need no app, database or vendor. It is folders of markdown and one instruction file that tells your agent where every fact lives.
 
 ## Why
 
@@ -25,7 +25,7 @@ So the brain has rules against drift (see `AGENTS.md`):
 - Superseded documents get a banner instead of being silently wrong.
 - Once a week, ask your agent: *"Walk the brain. What is stale, duplicated or contradicting?"*
 
-Want this automated (an index, drift checks on a schedule, MCP tools for your agent)? That is the engine: [company-os](https://github.com/mondayrunner/company-os). The brain works without it.
+The brain works without any software. If you want the checks automated (an index, drift checks on a schedule, MCP tools for your agent), use the engine: [company-os](https://github.com/mondayrunner/company-os).
 
 ## What is in here
 
@@ -71,18 +71,22 @@ Then open your agent in that folder and say:
 
 Twenty minutes later your agent can answer the basics. Fill the rest in this order, each as its own conversation:
 
-1. **`company.md`**: the facts on your invoice. Five minutes.
-2. **`positioning.md`** and **`pricing.md`**: who you are for and what it costs. The two things your agent is asked most.
+1. **`company.md`**: the facts on your invoice. This takes five minutes.
+2. **`positioning.md`** and **`pricing.md`**: who you are for and what it costs. Your agent gets asked these two things most.
 3. **`brand.md`**: paste three texts you are proud of and let your agent describe your voice. From then on its drafts sound like you.
 4. **`compass.md`**: start with the anti-vision, the Tuesday you do not want. Ask your agent to interview you; it is easier to answer questions than to face an empty page.
 5. **`decisions.md`**: list the open questions you are carrying around. When one is decided, it moves to the log with the date and the reason.
 6. **`finance.md`** and **`team.md`**: the numbers you watch and where they live, your fixed commitments, and who (or which agent) does what.
 7. **Accounts**: one folder per open lead or customer, copied from `_template`. Paste in what you have (emails, notes) and let your agent write the status.
-8. **Playbooks**: not now. Wait until you notice you are writing something for the third time.
+8. **Playbooks**: skip these for now. Make one when you notice you are writing something for the third time.
 
-From there, feed it as you work: paste a call transcript, ask it to update the account; make a decision, ask it to log it; write the same email a third time, ask it to make a playbook.
+After that, feed the brain as you work:
 
-**Keep your own brain private.** This template is public; your filled-in copy contains customers, prices and decisions.
+- After a call, paste the transcript and ask your agent to update the account.
+- After a decision, ask it to log the decision.
+- When you write the same email a third time, ask it to make a playbook.
+
+**Keep your own brain private.** This template is public, but your filled-in copy contains customers, prices and decisions.
 
 ## Related
 

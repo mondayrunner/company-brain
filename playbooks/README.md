@@ -1,10 +1,10 @@
 # Playbooks
 
-Work you repeat, written down once. A proposal email, an onboarding, a workshop day, a monthly report: anything you have done three times the same way.
+A playbook is work you repeat, written down once. Think of a proposal email, an onboarding, a workshop day or a monthly report: anything you have done three times the same way.
 
 ## Why
 
-The third time you write the same kind of email, you are rewriting something that already exists somewhere in your sent folder. The best version is buried in an old thread. A playbook digs it up once and keeps it where your agent can find it.
+The third time you write the same kind of email, you are rewriting something that already exists somewhere in your sent folder. The best version is buried in an old thread. With a playbook you dig it up once and keep it where your agent can find it.
 
 ## How a playbook looks
 
@@ -28,9 +28,9 @@ Then read it and fix what is not you.
 
 ## Rules
 
-- **No prices in templates.** They come from `knowledge/pricing.md` when you use the template. Prices change; templates should not have to.
+- **No prices in templates.** Prices come from `knowledge/pricing.md` when you use the template. That way a price change does not mean editing every template.
 - **Link the real examples** the playbook was built from, so you can check what it was based on.
-- **List the ingredients that must never be missing** in the README. That list is where most of the value is.
-- **Update the playbook when you improve a real email.** The playbook is the best version so far, not a frozen one.
+- **List the ingredients that must never be missing** in the README. Most of the value is in that list.
+- **Update the playbook when you improve a real email.** The playbook holds your best version so far and keeps improving.
 
 Start from `_template/`.
