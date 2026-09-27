@@ -17,6 +17,14 @@ The agent asks these sources, or says it cannot see them. It never quotes a figu
 | Bank balance | [your bank] |
 | Invoices sent and open | [where you invoice] |
 
+## Scorecard
+
+The handful of numbers you look at every week. Only which numbers, where they come from and what healthy looks like. Never the numbers themselves. Targets live in `compass.md`.
+
+| Number | Source | Healthy | Worry when |
+|---|---|---|---|
+| | | | |
+
 ## Commitments
 
 Things that cost money every month or tie you down, with the date they end or renew.

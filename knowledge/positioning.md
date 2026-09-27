@@ -19,3 +19,11 @@ last_verified: YYYY-MM-DD
 ## Why us
 
 <!-- What a customer gets here that they do not get elsewhere. Proof, not adjectives. -->
+
+## Objections we hear
+
+The doubts buyers raise again and again, and how you answer them. Add one each time you hear a new one.
+
+| Objection | What is behind it | Our answer |
+|---|---|---|
+| | | |

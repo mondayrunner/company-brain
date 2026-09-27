@@ -35,10 +35,11 @@ CLAUDE.md                 one line that points Claude Code to AGENTS.md
 company.md                legal name, registration, address, bank, accountant
 knowledge/
   INDEX.md                map of everything below
-  positioning.md          who you are for, who you are not for
+  positioning.md          who you are for, who you are not for, the objections you hear
   pricing.md              the one place prices live
-  finance.md              where money figures live, loans, commitments, money rules; never the figures themselves
+  finance.md              scorecard, loans, commitments, money rules; never the figures themselves
   brand.md                voice, words, colours, fonts
+  team.md                 who does what, including your agents
   compass.md              what you want, what you do not; steers every piece of advice
   decisions.md            open questions on top, dated decisions and their reason below
 accounts/
@@ -75,7 +76,7 @@ Twenty minutes later your agent can answer the basics. Fill the rest in this ord
 3. **`brand.md`**: paste three texts you are proud of and let your agent describe your voice. From then on its drafts sound like you.
 4. **`compass.md`**: start with the anti-vision, the Tuesday you do not want. Ask your agent to interview you; it is easier to answer questions than to face an empty page.
 5. **`decisions.md`**: list the open questions you are carrying around. When one is decided, it moves to the log with the date and the reason.
-6. **`finance.md`**: where your money figures live, plus loans and fixed commitments with their end dates.
+6. **`finance.md`** and **`team.md`**: the numbers you watch and where they live, your fixed commitments, and who (or which agent) does what.
 7. **Accounts**: one folder per open lead or customer, copied from `_template`. Paste in what you have (emails, notes) and let your agent write the status.
 8. **Playbooks**: not now. Wait until you notice you are writing something for the third time.
 

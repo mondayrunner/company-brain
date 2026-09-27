@@ -13,6 +13,7 @@ This folder is the company's memory. Markdown is the truth. Answer from these fi
 | Prices, packages, rates | `knowledge/pricing.md` |
 | Where money figures live, loans, fixed commitments, money rules | `knowledge/finance.md` |
 | Voice, words, colours, fonts | `knowledge/brand.md` |
+| Who does what, including agents | `knowledge/team.md` |
 | What we want and what we do not (read before advising) | `knowledge/compass.md` |
 | Open questions, and what we decided, when and why | `knowledge/decisions.md` |
 | Status of one lead or customer | `accounts/<side>/<name>/STATUS.md` |
@@ -31,6 +32,14 @@ Documents with a `⚠️ SUPERSEDED` banner are history, not advice.
 - **Never quote a price from memory or from an old proposal.** Only from `knowledge/pricing.md`.
 - **Write in the voice from `knowledge/brand.md`** whenever you draft something that leaves the building.
 - **Log decisions.** When the human decides something that changes how the company works, add a dated line to `knowledge/decisions.md` with the reason. If it answers an open question, move that question from **Open** into the log. Offer to do it; do not skip it.
+- **No secrets in the brain.** Passwords, API keys and tokens never go in markdown. They live in a password manager or an `.env` file outside the repo. If you are handed one, do not write it down; say where it belongs.
+- **Absolute dates only.** "Next week" or "Thursday" becomes `YYYY-MM-DD` when you write it down. In three months nobody knows which Thursday it was.
+- **Read fresh before you advise.** Before advising on a customer or deal, reread its status file and `pipeline.md`. Do not rely on what was said earlier in the conversation.
+- **Evidence stays verbatim.** Transcripts, emails and notes are stored as they are, never only as a summary. A summary is an opinion; the original is evidence.
+- **Do not invent.** If the brain does not know, say so or leave a `[PLACEHOLDER]`. Never fill a gap with something plausible.
+- **Check before you draft.** Before writing a new version of an email or document, look for an existing draft or a sent version, and clear out stale drafts. Otherwise the human sends it twice.
+- **Keep logs short.** One line per moment, newest on top. Detail goes in its own dated file, with a link from the log.
+- **Push back.** When a request goes against `compass.md` or a logged decision, say so before doing it. A brain that only says yes is an archive.
 - **Supersede, do not silently overwrite.** When a document stops being true, add a `⚠️ SUPERSEDED — see <file>` banner at the top and link to what replaced it.
 
 ## Keeping the brain fresh (drift)
